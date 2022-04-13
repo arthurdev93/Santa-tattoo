@@ -335,7 +335,7 @@ header {
   text-align: right;
   position: absolute;
   z-index: 10;
-  top: 50%;
+  bottom: -60px;
   right: 60px;
   -webkit-transform: translateY(-50%);
   -moz-transform: translateY(-50%);
