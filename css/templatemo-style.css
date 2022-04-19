@@ -620,10 +620,12 @@ header {
 /*VIDEO STYLE*/
 .col-md-12 {
   margin: 20px;
+  background-color: #aaa;
 }
 
 .box-video {
   margin: 20px;
+  background-color: #aaa;
 }
 
 /* Contact Style */
@@ -670,7 +672,7 @@ header {
 
 #contact button {
   font-size: 13px;
-  border-radius: 0px;
+  border-radius: 10px;
   font-weight: 600;
   color: #fff;
   text-transform: capitalize;
