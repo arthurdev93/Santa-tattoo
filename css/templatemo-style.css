@@ -79,6 +79,7 @@ p {
 }
 
 .accent-button a {
+  border-radius: 10px;
   font-size: 13px;
   font-weight: 600;
   color: #fff;
@@ -614,13 +615,16 @@ header {
 }
 /*VIDEO STYLE*/
 .col-md-12 {
+  text-align: left;
   padding: 20px;
+}
+.text-content {
+  font: black;
 }
 
 .box-video {
   padding: 20px;
 }
-
 
 /* Contact Style */
 
