@@ -298,7 +298,7 @@ header {
 }
 
 .sidebar-navigation .social-icons li a {
-  font-size: 18px;
+  font-size: 30px;
   color: #fff;
   transition: all 0.5s;
 }
@@ -484,7 +484,7 @@ header {
 }
 
 #featured .owl-dots .active span {
-  background-color: #A02226!important;
+  background-color: #e01111!important;
 }
 
 #featured .owl-dots button {
@@ -520,7 +520,7 @@ header {
 }
 
 #featured .owl-nav span:hover {
-  background-color: #A02226;
+  background-color: #e01111;
   color: #fff;
 }
 
@@ -545,7 +545,7 @@ header {
   color: #fff;
   text-align: center;
   text-transform: capitalize;
-  background-color: #A02226;
+  background-color: #e01111;
   display: inline-block;
   height: 44px;
   line-height: 44px;
@@ -689,7 +689,7 @@ ul {
   font-weight: 600;
   color: #fff;
   text-transform: capitalize;
-  background-color: #A02226;
+  background-color: #e01111;
   display: inline-block;
   height: 44px;
   line-height: 24px;
@@ -742,6 +742,9 @@ ul {
 
   .responsive-nav {
     display: none;
+    background-color: #FF0;
+    color: #FF0;
+    
   }
 
   .sidebar-navigation .logo a {
@@ -757,7 +760,7 @@ ul {
   }
 
   .sidebar-navigation .social-icons li a {
-    font-size: 15px;
+    font-size: 20px;
   }
 
 }
@@ -826,6 +829,9 @@ ul {
   .section-heading p {
     position: relative;
   }
+.social-icons {
+  font-size: 20px;
+}
 
   #featured {
     padding-left: 15px;
