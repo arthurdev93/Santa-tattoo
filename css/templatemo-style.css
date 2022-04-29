@@ -742,13 +742,10 @@ ul {
 
   .responsive-nav {
     display: none;
-    background-color: #FF0;
-    color: #FF0;
-    /*CORES INSERIDAS PARA LOCALIZAR MELHOR O MENU*/
-    
   }
   .social-icons {
     /*TENTAR CONFIGURAR POR AQUI*/
+
   }
   .sidebar-navigation .logo a {
     font-size: 18px;
