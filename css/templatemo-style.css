@@ -27,6 +27,9 @@ p {
   -ms-transform: translateX(-50%);
   -o-transform: translateX(-50%);
   transform: translateX(-50%);
+  background-image: url(../img/ex\ tamanho\ foto\ slide\ 1.jpg);
+  /*COLOCAR ACIMA ARTE DE FUNDO BACKGROUND ROBSON*/
+
 }
 
 .section-heading {
