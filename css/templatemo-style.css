@@ -4,7 +4,7 @@ body {
 
 p {
   font-size: 19px;
-  color: #5f5f5f;
+  color: white;
   line-height: 24px;
 }
 
@@ -41,7 +41,7 @@ p {
 .section-heading h1 {
   margin-top: 0px;
   font-size: 32px;
-  color: #232323;
+  color: white;
   display: inline-block;
   margin-right: 50px;
 }
@@ -56,7 +56,7 @@ p {
   display: inline-block;
   font-size: 15px;
   line-height: 26px;
-  color: #343434;
+  color: white;
   position: absolute;
   top: 12.5px;
 }
@@ -122,7 +122,8 @@ header {
   z-index: 10;
   width: 100%;
   height: 80px;
-  background-color: rgba(250,250,250,.95);
+  background-color: rgba(241, 240, 240, 0.95);
+  /*COR BARRA MENU MOBILE*/
   box-shadow: 0px 5px 15px rgba(0,0,0,0.2);
 }
 
@@ -658,7 +659,7 @@ ul {
   border-radius: 0px;
   padding-left: 15px;
   font-size: 13px;
-  color: #aaa;
+  color: white;
   background-color: #f4f4f4;
   border: 1px solid #eee;
   outline: none;
@@ -674,7 +675,7 @@ ul {
   padding-left: 15px;
   padding-top: 10px;
   font-size: 13px;
-  color: #aaa;
+  color: white;
   background-color: #f4f4f4;
   border: 1px solid #eee;
   outline: none;
@@ -748,7 +749,7 @@ ul {
   }
   .social-icons {
     /*TENTAR CONFIGURAR POR AQUI*/
-
+    list-style: none;
   }
   .sidebar-navigation .logo a {
     font-size: 18px;
