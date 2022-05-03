@@ -750,6 +750,7 @@ ul {
   .social-icons {
     /*TENTAR CONFIGURAR POR AQUI*/
     list-style: none;
+    text-align: center;
   }
   .sidebar-navigation .logo a {
     font-size: 18px;
