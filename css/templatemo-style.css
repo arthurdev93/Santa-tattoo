@@ -463,6 +463,7 @@ header {
   padding-right: 60px;
   padding-bottom: 80px;
   border-bottom: 1px solid #eee;
+  background-color: white;
 }
 
 #featured .section-heading {
@@ -749,7 +750,7 @@ ul {
   }
   .social-icons {
     /*TENTAR CONFIGURAR POR AQUI*/
-    margin-top: 3%;
+    margin-top: 16px;
     border-style: none;
     width: 100vw;   
     display: block;
@@ -761,7 +762,7 @@ ul {
   }
   #tube-mini {
     margin-left: 40px;
-    margin-top: -6%;
+    margin-top: -32px;
     
   }
   .sidebar-navigation .logo a {
