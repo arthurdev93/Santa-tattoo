@@ -749,8 +749,20 @@ ul {
   }
   .social-icons {
     /*TENTAR CONFIGURAR POR AQUI*/
-    list-style: none;
-    text-align: center;
+    margin-top: 3%;
+    border-style: none;
+    width: 100vw;   
+    display: block;
+    
+  }
+  #insta-mini {
+    
+    margin-left: -55px;
+  }
+  #tube-mini {
+    margin-left: 40px;
+    margin-top: -6%;
+    
   }
   .sidebar-navigation .logo a {
     font-size: 18px;
