@@ -27,9 +27,10 @@ p {
   -ms-transform: translateX(-50%);
   -o-transform: translateX(-50%);
   transform: translateX(-50%);
+  
   background-image: url(../img/ex\ tamanho\ foto\ slide\ 1.jpg);
+  
   /*COLOCAR ACIMA ARTE DE FUNDO BACKGROUND ROBSON*/
-
 }
 
 .section-heading {
@@ -457,13 +458,16 @@ header {
 
 
 /* Featured Style */
+/*GALERIA ROBSON*/
 
 #featured {
   padding-left: 60px;
   padding-right: 60px;
   padding-bottom: 80px;
   border-bottom: 1px solid #eee;
+  background-image: none; 
   background-color: white;
+  color: black;
 }
 
 #featured .section-heading {
@@ -572,7 +576,6 @@ header {
 
 #featured .item .text-content {
   padding-top: 20px;
-  background-color: #fff;
   position: relative;
   z-index: 10;
 }
@@ -622,7 +625,6 @@ header {
 }
 /*VIDEO STYLE*/
 .row {
-  
   max-width:100%;
   padding-left: 20px;
 }
