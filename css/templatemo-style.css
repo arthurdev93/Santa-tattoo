@@ -1,6 +1,6 @@
 body {
   font-family: 'Open Sans', sans-serif;
-  background-image: url(../img/ex\ tamanho\ foto\ slide\ 1.jpg);
+  /*background-image: url(../img/ex\ tamanho\ foto\ slide\ 1.jpg);    */
   /*AQUI A IMAGEM DE FUNDO OCUPA TODA A TELA*/
 }
 
@@ -636,6 +636,9 @@ header {
   opacity: 0.5;
 }
 /*VIDEO STYLE*/
+#video {
+  background-image: url(/img/imagemsite01.jpg);
+}
 .row {
   max-width:100%;
   padding-left: 20px;
@@ -654,7 +657,7 @@ header {
 
 #contact {
   padding-top: 0px;
- 
+  background-image: url(/img/imagemsite02.jpg);
 }
 ul {
   list-style: none;
@@ -725,7 +728,12 @@ ul {
   background-color: #f4f4f4;
 }
 
+/* SESSÃO APRENDA A TATUAR */
 
+#curso {
+  background-image: url(/img/imagemsite03.jpg);
+
+}
 
 /* Footer Style */
 
